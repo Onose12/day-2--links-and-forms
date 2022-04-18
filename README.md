@@ -1,1 +1,2 @@
 # day-2--links-and-forms
+Hi. This is day 2 of 300 days of code. How do I feel? I feel like a badass software developer already. LOL. Today I learnt how to link to external pages and internal pages using the anchor element. I also learnt how to use the ID attribute, nesting an anchor element within a paragraph, creating ordered and unordered list and the lastly creating a form. I did a little practice on all i learnt today. Hope to do more on forms tomorrow. 
